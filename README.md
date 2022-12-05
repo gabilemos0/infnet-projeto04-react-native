@@ -6,13 +6,13 @@ Projeto desenvolvido para testar os conhecimentos sobre React Native aprendidos 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="./.github/preview.jpg" width="100%">
+  <img alt="pomodoro timer" src="./assets/images/pomodoro-timer.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
